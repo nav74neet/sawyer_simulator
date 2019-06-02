@@ -9,7 +9,7 @@ Installation:
 Followed from <a href= "https://github.com/nav74neet/sawyer_robot">sawyer_robot</a> package setup
 ```
 $ cd ~/sawyer_ws/src
-$ git clone https://github.com/RethinkRobotics/sawyer_simulator.git
+$ git clone https://github.com/nav74neet/sawyer_simulator.git
 $ cd ~/sawyer_ws/src
 $ wstool init .
 $ wstool merge sawyer_simulator/sawyer_simulator.rosinstall
