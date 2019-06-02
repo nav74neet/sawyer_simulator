@@ -27,6 +27,6 @@ Copy the <b>intera.sh</b> file from the inter sdk folder to the ros_ws folder & 
 
 **To activate the sawyer workspace:**
 ```
-$ cd ros_ws
+$ cd sawyer_ws
 $ ./intera.sh sim  
 ```
