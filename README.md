@@ -1,8 +1,8 @@
 sawyer_simulator
 ================
 
-Gazebo simulation with emulated interfaces for the Sawyer Robot (to be used with sawyer_gail repository).
-This repository also installs the intera sdk & intera common tools and packages.
+Gazebo simulation with emulated interfaces for the Sawyer Robot (to be used with sawyer_gail repository- made some minor changes in the main repository).
+This repository also installs the intera sdk & intera common tools and packages. 
 
 Installation:
 -------------
